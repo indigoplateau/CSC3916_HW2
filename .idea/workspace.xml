@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9ee19f9-cc16-478b-9ef6-92d5d45bbb3c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XjGzRNOune2Csbq02puX2WbItX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" node-parameters="-r dotenv/config" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.server.js" />
+      <item itemvalue="npm.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ee19f9-cc16-478b-9ef6-92d5d45bbb3c" name="Default" comment="" />
+      <created>1517680644681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517680644681</updated>
+      <workItem from="1517680647269" duration="12385000" />
+      <workItem from="1519076514854" duration="3281000" />
+      <workItem from="1519100227121" duration="592000" />
+      <workItem from="1546288520616" duration="6314000" />
+      <workItem from="1550101915200" duration="605000" />
+      <workItem from="1550105398207" duration="557000" />
+      <workItem from="1581552353580" duration="1722000" />
+      <workItem from="1581575539667" duration="32000" />
+      <workItem from="1581886218919" duration="236000" />
+      <workItem from="1581890056904" duration="527000" />
+      <workItem from="1581984516404" duration="729000" />
+      <workItem from="1582154962102" duration="10000" />
+      <workItem from="1582156735127" duration="745000" />
+      <workItem from="1582328867969" duration="17000" />
+      <workItem from="1582765118529" duration="1643000" />
+      <workItem from="1582791362902" duration="15000" />
+      <workItem from="1582937611833" duration="742000" />
+      <workItem from="1583008368298" duration="1840000" />
+      <workItem from="1583095562882" duration="6034000" />
+      <workItem from="1583117377813" duration="304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581552975185">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581552975185" />
+    <state x="463" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581552830007">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="463" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833@0.23.1440.833" timestamp="1581552830007" />
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom" timestamp="1583116550506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583116550506" />
+    <state width="1419" height="302" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1581552374441" />
+    <state width="1419" height="205" key="GridCell.Tab.0.center" timestamp="1583116550505">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583116550505" />
+    <state width="1419" height="302" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1581552374440" />
+    <state width="1419" height="205" key="GridCell.Tab.0.left" timestamp="1583116550504">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583116550504" />
+    <state width="1419" height="302" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1581552374439" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right" timestamp="1583116550506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583116550506" />
+    <state width="1419" height="302" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1581552374441" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/server.js</url>
+          <line>121</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/auth.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
