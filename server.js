@@ -60,8 +60,6 @@ router.route('/movies')
             console.log("Content-Type: " + req.get('Content-Type'));
             res = res.type(req.get('Content-Type'));
         }
-        //res.setHeader("Message", "GET movies");
-
 
         res.json(getJSONObjectWithMessage(req, "GET movies" ));
     })
@@ -74,6 +72,7 @@ router.route('/movies')
             console.log("Content-Type: " + req.get('Content-Type'));
             res = res.type(req.get('Content-Type'));
         }
+
 
         res.json(getJSONObjectWithMessage(req, "movie saved" ));
     })
